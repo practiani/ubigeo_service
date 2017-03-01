@@ -1,0 +1,601 @@
+[2017-02-23 11:57:52] DEBUG [django.db.backends:90] (0.000) SELECT @@SQL_AUTO_IS_NULL; args=None
+[2017-02-23 11:57:52] DEBUG [django.db.backends:90] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 11:57:52] DEBUG [django.db.backends:90] (0.000) SELECT VERSION(); args=None
+[2017-02-23 11:57:52] DEBUG [django.db.backends:90] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 11:57:52] DEBUG [django.db.backends:90] (0.002) SHOW FULL TABLES; args=None
+[2017-02-23 11:57:52] DEBUG [django.db.backends:90] (0.001) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[2017-02-23 12:04:45] DEBUG [django.db.backends:90] (0.000) SELECT @@SQL_AUTO_IS_NULL; args=None
+[2017-02-23 12:04:45] DEBUG [django.db.backends:90] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 12:04:45] DEBUG [django.db.backends:90] (0.000) SELECT VERSION(); args=None
+[2017-02-23 12:04:45] DEBUG [django.db.backends:90] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 12:04:45] DEBUG [django.db.backends:90] (0.002) SHOW FULL TABLES; args=None
+[2017-02-23 12:04:45] DEBUG [django.db.backends:90] (0.000) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[2017-02-23 12:05:03] DEBUG [django.db.backends:90] (0.001) SELECT @@SQL_AUTO_IS_NULL; args=None
+[2017-02-23 12:05:03] DEBUG [django.db.backends:90] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 12:05:03] DEBUG [django.db.backends:90] (0.000) SELECT VERSION(); args=None
+[2017-02-23 12:05:04] DEBUG [django.db.backends:90] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 12:05:04] DEBUG [django.db.backends:90] (0.001) SHOW FULL TABLES; args=None
+[2017-02-23 12:05:04] DEBUG [django.db.backends:90] (0.001) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[2017-02-23 12:08:55] WARNING [django.server:131] "GET /api/ubigeo/ubigeos/ HTTP/1.1" 401 4871
+[2017-02-23 12:08:55] INFO [django.server:131] "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+[2017-02-23 12:08:55] INFO [django.server:131] "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+[2017-02-23 12:08:55] INFO [django.server:131] "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+[2017-02-23 12:08:55] INFO [django.server:131] "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+[2017-02-23 12:08:55] INFO [django.server:131] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+[2017-02-23 12:08:55] INFO [django.server:131] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+[2017-02-23 12:08:55] INFO [django.server:131] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+[2017-02-23 12:08:55] INFO [django.server:131] "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+[2017-02-23 12:08:55] INFO [django.server:131] "GET /static/rest_framework/js/jquery-1.12.4.min.js HTTP/1.1" 304 0
+[2017-02-23 12:08:55] INFO [django.server:131] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+[2017-02-23 12:08:55] INFO [django.server:131] "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+[2017-02-23 12:09:34] DEBUG [django.db.backends:90] (0.000) SELECT @@SQL_AUTO_IS_NULL; args=None
+[2017-02-23 12:09:34] DEBUG [django.db.backends:90] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 12:09:34] DEBUG [django.db.backends:90] (0.000) SELECT VERSION(); args=None
+[2017-02-23 12:09:34] DEBUG [django.db.backends:90] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 12:09:34] DEBUG [django.db.backends:90] (0.002) SHOW FULL TABLES; args=None
+[2017-02-23 12:09:34] DEBUG [django.db.backends:90] (0.000) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[2017-02-23 12:09:38] WARNING [django.server:131] "GET /api/ubigeo/ubigeos/ HTTP/1.1" 401 4871
+[2017-02-23 12:09:38] INFO [django.server:131] "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+[2017-02-23 12:09:38] INFO [django.server:131] "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+[2017-02-23 12:09:38] INFO [django.server:131] "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+[2017-02-23 12:09:38] INFO [django.server:131] "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+[2017-02-23 12:09:38] INFO [django.server:131] "GET /static/rest_framework/js/jquery-1.12.4.min.js HTTP/1.1" 304 0
+[2017-02-23 12:09:38] INFO [django.server:131] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+[2017-02-23 12:09:38] INFO [django.server:131] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+[2017-02-23 12:09:38] INFO [django.server:131] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+[2017-02-23 12:09:38] INFO [django.server:131] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+[2017-02-23 12:09:38] INFO [django.server:131] "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+[2017-02-23 12:09:38] INFO [django.server:131] "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+[2017-02-23 12:09:59] DEBUG [django.db.backends:90] (0.000) SELECT @@SQL_AUTO_IS_NULL; args=None
+[2017-02-23 12:09:59] DEBUG [django.db.backends:90] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 12:09:59] DEBUG [django.db.backends:90] (0.000) SELECT VERSION(); args=None
+[2017-02-23 12:09:59] DEBUG [django.db.backends:90] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 12:09:59] DEBUG [django.db.backends:90] (0.002) SHOW FULL TABLES; args=None
+[2017-02-23 12:09:59] DEBUG [django.db.backends:90] (0.000) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[2017-02-23 12:10:00] DEBUG [django.db.backends:90] (0.001) SELECT @@SQL_AUTO_IS_NULL; args=None
+[2017-02-23 12:10:00] DEBUG [django.db.backends:90] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 12:10:00] DEBUG [django.db.backends:90] (0.001) SELECT COUNT(*) AS `__count` FROM `ubigeo_ubigeo`; args=()
+[2017-02-23 12:10:00] DEBUG [django.db.backends:90] (0.001) SELECT `ubigeo_ubigeo`.`id`, `ubigeo_ubigeo`.`nombre`, `ubigeo_ubigeo`.`codigo`, `ubigeo_ubigeo`.`capital`, `ubigeo_ubigeo`.`latitud`, `ubigeo_ubigeo`.`longitud`, `ubigeo_ubigeo`.`codigo_postal`, `ubigeo_ubigeo`.`codigo_area`, `ubigeo_ubigeo`.`estado`, `ubigeo_ubigeo`.`padre_id`, `ubigeo_ubigeo`.`foto`, `ubigeo_ubigeo`.`pais_id`, `ubigeo_ubigeo`.`tipo_ubigeo_id` FROM `ubigeo_ubigeo` LIMIT 5; args=()
+[2017-02-23 12:10:00] DEBUG [django.template:929] Exception while resolving variable 'hide_label' in template 'rest_framework/horizontal/input.html'.
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 885, in _resolve_lookup
+    current = current[bit]
+KeyError: 'hide_label'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 893, in _resolve_lookup
+    current = getattr(current, bit)
+AttributeError: 'dict' object has no attribute 'hide_label'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 900, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'hide_label'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 907, in _resolve_lookup
+    (bit, current))  # missing attribute
+django.template.base.VariableDoesNotExist: Failed lookup for key [hide_label] in "{'renderer': <rest_framework.renderers.HTMLFormRenderer object at 0x0000000005BED1D0>, 'input_type': 'text', 'base_template': 'input.html', 'template_pack': 'rest_framework/horizontal'}"
+[2017-02-23 12:10:00] DEBUG [django.template:929] Exception while resolving variable 'placeholder' in template 'rest_framework/horizontal/input.html'.
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 885, in _resolve_lookup
+    current = current[bit]
+KeyError: 'placeholder'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 893, in _resolve_lookup
+    current = getattr(current, bit)
+AttributeError: 'dict' object has no attribute 'placeholder'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 900, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'placeholder'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 907, in _resolve_lookup
+    (bit, current))  # missing attribute
+django.template.base.VariableDoesNotExist: Failed lookup for key [placeholder] in "{'renderer': <rest_framework.renderers.HTMLFormRenderer object at 0x0000000005BED1D0>, 'input_type': 'text', 'base_template': 'input.html', 'template_pack': 'rest_framework/horizontal'}"
+[2017-02-23 12:10:00] DEBUG [django.template:929] Exception while resolving variable 'autofocus' in template 'rest_framework/horizontal/input.html'.
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 885, in _resolve_lookup
+    current = current[bit]
+KeyError: 'autofocus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 893, in _resolve_lookup
+    current = getattr(current, bit)
+AttributeError: 'dict' object has no attribute 'autofocus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 900, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'autofocus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 907, in _resolve_lookup
+    (bit, current))  # missing attribute
+django.template.base.VariableDoesNotExist: Failed lookup for key [autofocus] in "{'renderer': <rest_framework.renderers.HTMLFormRenderer object at 0x0000000005BED1D0>, 'input_type': 'text', 'base_template': 'input.html', 'template_pack': 'rest_framework/horizontal'}"
+[2017-02-23 12:10:00] DEBUG [django.template:929] Exception while resolving variable 'hide_label' in template 'rest_framework/horizontal/input.html'.
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 885, in _resolve_lookup
+    current = current[bit]
+KeyError: 'hide_label'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 893, in _resolve_lookup
+    current = getattr(current, bit)
+AttributeError: 'dict' object has no attribute 'hide_label'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 900, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'hide_label'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 907, in _resolve_lookup
+    (bit, current))  # missing attribute
+django.template.base.VariableDoesNotExist: Failed lookup for key [hide_label] in "{'renderer': <rest_framework.renderers.HTMLFormRenderer object at 0x0000000005BED1D0>, 'input_type': 'text', 'base_template': 'input.html', 'template_pack': 'rest_framework/horizontal'}"
+[2017-02-23 12:10:00] DEBUG [django.template:929] Exception while resolving variable 'placeholder' in template 'rest_framework/horizontal/input.html'.
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 885, in _resolve_lookup
+    current = current[bit]
+KeyError: 'placeholder'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 893, in _resolve_lookup
+    current = getattr(current, bit)
+AttributeError: 'dict' object has no attribute 'placeholder'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 900, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'placeholder'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 907, in _resolve_lookup
+    (bit, current))  # missing attribute
+django.template.base.VariableDoesNotExist: Failed lookup for key [placeholder] in "{'renderer': <rest_framework.renderers.HTMLFormRenderer object at 0x0000000005BED1D0>, 'input_type': 'text', 'base_template': 'input.html', 'template_pack': 'rest_framework/horizontal'}"
+[2017-02-23 12:10:00] DEBUG [django.template:929] Exception while resolving variable 'autofocus' in template 'rest_framework/horizontal/input.html'.
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 885, in _resolve_lookup
+    current = current[bit]
+KeyError: 'autofocus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 893, in _resolve_lookup
+    current = getattr(current, bit)
+AttributeError: 'dict' object has no attribute 'autofocus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 900, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'autofocus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 907, in _resolve_lookup
+    (bit, current))  # missing attribute
+django.template.base.VariableDoesNotExist: Failed lookup for key [autofocus] in "{'renderer': <rest_framework.renderers.HTMLFormRenderer object at 0x0000000005BED1D0>, 'input_type': 'text', 'base_template': 'input.html', 'template_pack': 'rest_framework/horizontal'}"
+[2017-02-23 12:10:00] DEBUG [django.template:929] Exception while resolving variable 'hide_label' in template 'rest_framework/horizontal/input.html'.
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 885, in _resolve_lookup
+    current = current[bit]
+KeyError: 'hide_label'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 893, in _resolve_lookup
+    current = getattr(current, bit)
+AttributeError: 'dict' object has no attribute 'hide_label'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 900, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'hide_label'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 907, in _resolve_lookup
+    (bit, current))  # missing attribute
+django.template.base.VariableDoesNotExist: Failed lookup for key [hide_label] in "{'renderer': <rest_framework.renderers.HTMLFormRenderer object at 0x0000000005BED1D0>, 'input_type': 'text', 'base_template': 'input.html', 'template_pack': 'rest_framework/horizontal'}"
+[2017-02-23 12:10:00] DEBUG [django.template:929] Exception while resolving variable 'placeholder' in template 'rest_framework/horizontal/input.html'.
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 885, in _resolve_lookup
+    current = current[bit]
+KeyError: 'placeholder'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 893, in _resolve_lookup
+    current = getattr(current, bit)
+AttributeError: 'dict' object has no attribute 'placeholder'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 900, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'placeholder'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 907, in _resolve_lookup
+    (bit, current))  # missing attribute
+django.template.base.VariableDoesNotExist: Failed lookup for key [placeholder] in "{'renderer': <rest_framework.renderers.HTMLFormRenderer object at 0x0000000005BED1D0>, 'input_type': 'text', 'base_template': 'input.html', 'template_pack': 'rest_framework/horizontal'}"
+[2017-02-23 12:10:00] DEBUG [django.template:929] Exception while resolving variable 'autofocus' in template 'rest_framework/horizontal/input.html'.
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 885, in _resolve_lookup
+    current = current[bit]
+KeyError: 'autofocus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 893, in _resolve_lookup
+    current = getattr(current, bit)
+AttributeError: 'dict' object has no attribute 'autofocus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 900, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'autofocus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 907, in _resolve_lookup
+    (bit, current))  # missing attribute
+django.template.base.VariableDoesNotExist: Failed lookup for key [autofocus] in "{'renderer': <rest_framework.renderers.HTMLFormRenderer object at 0x0000000005BED1D0>, 'input_type': 'text', 'base_template': 'input.html', 'template_pack': 'rest_framework/horizontal'}"
+[2017-02-23 12:10:00] DEBUG [django.template:929] Exception while resolving variable 'hide_label' in template 'rest_framework/horizontal/select.html'.
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 885, in _resolve_lookup
+    current = current[bit]
+KeyError: 'hide_label'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 893, in _resolve_lookup
+    current = getattr(current, bit)
+AttributeError: 'dict' object has no attribute 'hide_label'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 900, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'hide_label'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 907, in _resolve_lookup
+    (bit, current))  # missing attribute
+django.template.base.VariableDoesNotExist: Failed lookup for key [hide_label] in "{'renderer': <rest_framework.renderers.HTMLFormRenderer object at 0x0000000005BED1D0>, 'base_template': 'select.html', 'template_pack': 'rest_framework/horizontal'}"
+[2017-02-23 12:10:00] DEBUG [django.template:929] Exception while resolving variable 'allow_blank' in template 'rest_framework/horizontal/select.html'.
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 885, in _resolve_lookup
+    current = current[bit]
+TypeError: 'BoundField' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 893, in _resolve_lookup
+    current = getattr(current, bit)
+  File "E:\trac\ve_ubigeo\lib\site-packages\rest_framework\utils\serializer_helpers.py", line 69, in __getattr__
+    return getattr(self._field, attr_name)
+AttributeError: 'PrimaryKeyRelatedField' object has no attribute 'allow_blank'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 900, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'allow_blank'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 907, in _resolve_lookup
+    (bit, current))  # missing attribute
+django.template.base.VariableDoesNotExist: Failed lookup for key [allow_blank] in '<BoundField value= errors=None>'
+[2017-02-23 12:10:00] DEBUG [django.db.backends:90] (0.010) SELECT `ubigeo_pais`.`id`, `ubigeo_pais`.`nombre`, `ubigeo_pais`.`nacionalidad_m`, `ubigeo_pais`.`nacionalidad_f`, `ubigeo_pais`.`idioma`, `ubigeo_pais`.`latitud`, `ubigeo_pais`.`longitud`, `ubigeo_pais`.`bandera`, `ubigeo_pais`.`escudo`, `ubigeo_pais`.`codigo_internacional`, `ubigeo_pais`.`codigo_pais` FROM `ubigeo_pais` LIMIT 1000; args=()
+[2017-02-23 12:10:00] DEBUG [django.template:929] Exception while resolving variable 'hide_label' in template 'rest_framework/horizontal/select.html'.
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 885, in _resolve_lookup
+    current = current[bit]
+KeyError: 'hide_label'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 893, in _resolve_lookup
+    current = getattr(current, bit)
+AttributeError: 'dict' object has no attribute 'hide_label'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 900, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'hide_label'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 907, in _resolve_lookup
+    (bit, current))  # missing attribute
+django.template.base.VariableDoesNotExist: Failed lookup for key [hide_label] in "{'renderer': <rest_framework.renderers.HTMLFormRenderer object at 0x0000000005BED1D0>, 'base_template': 'select.html', 'template_pack': 'rest_framework/horizontal'}"
+[2017-02-23 12:10:00] DEBUG [django.template:929] Exception while resolving variable 'allow_blank' in template 'rest_framework/horizontal/select.html'.
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 885, in _resolve_lookup
+    current = current[bit]
+TypeError: 'BoundField' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 893, in _resolve_lookup
+    current = getattr(current, bit)
+  File "E:\trac\ve_ubigeo\lib\site-packages\rest_framework\utils\serializer_helpers.py", line 69, in __getattr__
+    return getattr(self._field, attr_name)
+AttributeError: 'PrimaryKeyRelatedField' object has no attribute 'allow_blank'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 900, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'allow_blank'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 907, in _resolve_lookup
+    (bit, current))  # missing attribute
+django.template.base.VariableDoesNotExist: Failed lookup for key [allow_blank] in '<BoundField value= errors=None>'
+[2017-02-23 12:10:00] DEBUG [django.db.backends:90] (0.008) SELECT `ubigeo_tipoubigeo`.`id`, `ubigeo_tipoubigeo`.`nombre`, `ubigeo_tipoubigeo`.`zoom`, `ubigeo_tipoubigeo`.`estado` FROM `ubigeo_tipoubigeo` LIMIT 1000; args=()
+[2017-02-23 12:10:00] DEBUG [django.template:929] Exception while resolving variable 'hide_label' in template 'rest_framework/horizontal/select.html'.
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 885, in _resolve_lookup
+    current = current[bit]
+KeyError: 'hide_label'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 893, in _resolve_lookup
+    current = getattr(current, bit)
+AttributeError: 'dict' object has no attribute 'hide_label'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 900, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'hide_label'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\trac\ve_ubigeo\lib\site-packages\django\template\base.py", line 907, in _resolve_lookup
+    (bit, current))  # missing attribute
+django.template.base.VariableDoesNotExist: Failed lookup for key [hide_label] in "{'renderer': <rest_framework.renderers.HTMLFormRenderer object at 0x0000000005BED1D0>, 'base_template': 'select.html', 'template_pack': 'rest_framework/horizontal'}"
+[2017-02-23 12:10:00] DEBUG [django.db.backends:90] (0.026) SELECT `ubigeo_ubigeo`.`id`, `ubigeo_ubigeo`.`nombre`, `ubigeo_ubigeo`.`codigo`, `ubigeo_ubigeo`.`capital`, `ubigeo_ubigeo`.`latitud`, `ubigeo_ubigeo`.`longitud`, `ubigeo_ubigeo`.`codigo_postal`, `ubigeo_ubigeo`.`codigo_area`, `ubigeo_ubigeo`.`estado`, `ubigeo_ubigeo`.`padre_id`, `ubigeo_ubigeo`.`foto`, `ubigeo_ubigeo`.`pais_id`, `ubigeo_ubigeo`.`tipo_ubigeo_id` FROM `ubigeo_ubigeo` LIMIT 1000; args=()
+[2017-02-23 12:10:01] INFO [django.server:131] "GET /api/ubigeo/ubigeos/ HTTP/1.1" 200 153203
+[2017-02-23 12:10:01] INFO [django.server:131] "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+[2017-02-23 12:10:01] INFO [django.server:131] "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+[2017-02-23 12:10:01] INFO [django.server:131] "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+[2017-02-23 12:10:01] INFO [django.server:131] "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+[2017-02-23 12:10:01] INFO [django.server:131] "GET /static/rest_framework/js/jquery-1.12.4.min.js HTTP/1.1" 304 0
+[2017-02-23 12:10:01] INFO [django.server:131] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+[2017-02-23 12:10:01] INFO [django.server:131] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+[2017-02-23 12:10:01] INFO [django.server:131] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+[2017-02-23 12:10:01] INFO [django.server:131] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+[2017-02-23 12:10:01] INFO [django.server:131] "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+[2017-02-23 12:10:01] INFO [django.server:131] "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+[2017-02-23 12:11:27] DEBUG [django.db.backends:90] (0.001) SELECT @@SQL_AUTO_IS_NULL; args=None
+[2017-02-23 12:11:27] DEBUG [django.db.backends:90] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 12:11:27] DEBUG [django.db.backends:90] (0.000) SELECT VERSION(); args=None
+[2017-02-23 12:11:27] DEBUG [django.db.backends:90] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 12:11:27] DEBUG [django.db.backends:90] (0.002) SHOW FULL TABLES; args=None
+[2017-02-23 12:11:27] DEBUG [django.db.backends:90] (0.001) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[2017-02-23 12:11:51] DEBUG [django.db.backends:90] (0.000) SELECT @@SQL_AUTO_IS_NULL; args=None
+[2017-02-23 12:11:51] DEBUG [django.db.backends:90] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 12:11:51] DEBUG [django.db.backends:90] (0.001) SELECT VERSION(); args=None
+[2017-02-23 12:11:51] DEBUG [django.db.backends:90] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 12:11:51] DEBUG [django.db.backends:90] (0.002) SELECT `oauth2_provider_accesstoken`.`id`, `oauth2_provider_accesstoken`.`user_id`, `oauth2_provider_accesstoken`.`token`, `oauth2_provider_accesstoken`.`application_id`, `oauth2_provider_accesstoken`.`expires`, `oauth2_provider_accesstoken`.`scope`, `oauth2_backend_user`.`password`, `oauth2_backend_user`.`last_login`, `oauth2_backend_user`.`is_superuser`, `oauth2_backend_user`.`username`, `oauth2_backend_user`.`first_name`, `oauth2_backend_user`.`last_name`, `oauth2_backend_user`.`email`, `oauth2_backend_user`.`is_staff`, `oauth2_backend_user`.`is_active`, `oauth2_backend_user`.`date_joined`, `oauth2_backend_user`.`id`, `oauth2_backend_user`.`last_hierarchy_id`, `oauth2_backend_user`.`last_module_id`, `oauth2_backend_user`.`person_id`, `oauth2_backend_user`.`updated_at`, `oauth2_backend_user`.`registered_by`, `oauth2_provider_application`.`id`, `oauth2_provider_application`.`client_id`, `oauth2_provider_application`.`user_id`, `oauth2_provider_application`.`redirect_uris`, `oauth2_provider_application`.`client_type`, `oauth2_provider_application`.`authorization_grant_type`, `oauth2_provider_application`.`client_secret`, `oauth2_provider_application`.`name`, `oauth2_provider_application`.`skip_authorization` FROM `oauth2_provider_accesstoken` LEFT OUTER JOIN `oauth2_backend_user` ON (`oauth2_provider_accesstoken`.`user_id` = `oauth2_backend_user`.`id`) INNER JOIN `oauth2_provider_application` ON (`oauth2_provider_accesstoken`.`application_id` = `oauth2_provider_application`.`id`) WHERE `oauth2_provider_accesstoken`.`token` = 'J0CFXscMAJrjjY9UMKdRCcnULQIT1v'; args=('J0CFXscMAJrjjY9UMKdRCcnULQIT1v',)
+[2017-02-23 12:11:51] WARNING [django.server:131] "GET /api/ubigeo/ubigeos/ HTTP/1.1" 401 58
+[2017-02-23 12:12:22] DEBUG [django.db.backends:90] (0.000) SELECT @@SQL_AUTO_IS_NULL; args=None
+[2017-02-23 12:12:22] DEBUG [django.db.backends:90] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 12:12:22] DEBUG [django.db.backends:90] (0.000) SELECT VERSION(); args=None
+[2017-02-23 12:12:22] DEBUG [django.db.backends:90] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 12:12:22] DEBUG [django.db.backends:90] (0.001) SELECT `oauth2_provider_accesstoken`.`id`, `oauth2_provider_accesstoken`.`user_id`, `oauth2_provider_accesstoken`.`token`, `oauth2_provider_accesstoken`.`application_id`, `oauth2_provider_accesstoken`.`expires`, `oauth2_provider_accesstoken`.`scope`, `oauth2_backend_user`.`password`, `oauth2_backend_user`.`last_login`, `oauth2_backend_user`.`is_superuser`, `oauth2_backend_user`.`username`, `oauth2_backend_user`.`first_name`, `oauth2_backend_user`.`last_name`, `oauth2_backend_user`.`email`, `oauth2_backend_user`.`is_staff`, `oauth2_backend_user`.`is_active`, `oauth2_backend_user`.`date_joined`, `oauth2_backend_user`.`id`, `oauth2_backend_user`.`last_hierarchy_id`, `oauth2_backend_user`.`last_module_id`, `oauth2_backend_user`.`person_id`, `oauth2_backend_user`.`updated_at`, `oauth2_backend_user`.`registered_by`, `oauth2_provider_application`.`id`, `oauth2_provider_application`.`client_id`, `oauth2_provider_application`.`user_id`, `oauth2_provider_application`.`redirect_uris`, `oauth2_provider_application`.`client_type`, `oauth2_provider_application`.`authorization_grant_type`, `oauth2_provider_application`.`client_secret`, `oauth2_provider_application`.`name`, `oauth2_provider_application`.`skip_authorization` FROM `oauth2_provider_accesstoken` LEFT OUTER JOIN `oauth2_backend_user` ON (`oauth2_provider_accesstoken`.`user_id` = `oauth2_backend_user`.`id`) INNER JOIN `oauth2_provider_application` ON (`oauth2_provider_accesstoken`.`application_id` = `oauth2_provider_application`.`id`) WHERE `oauth2_provider_accesstoken`.`token` = 'RzE3JlczyRrykp0S4I0hUM9MdeUUgC'; args=('RzE3JlczyRrykp0S4I0hUM9MdeUUgC',)
+[2017-02-23 12:12:22] WARNING [django.server:131] "GET /api/ubigeo/ubigeos/ HTTP/1.1" 401 58
+[2017-02-23 12:14:21] DEBUG [django.db.backends:90] (0.000) SELECT @@SQL_AUTO_IS_NULL; args=None
+[2017-02-23 12:14:21] DEBUG [django.db.backends:90] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 12:14:21] DEBUG [django.db.backends:90] (0.000) SELECT VERSION(); args=None
+[2017-02-23 12:14:21] DEBUG [django.db.backends:90] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 12:14:21] DEBUG [django.db.backends:90] (0.003) SHOW FULL TABLES; args=None
+[2017-02-23 12:14:21] DEBUG [django.db.backends:90] (0.001) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[2017-02-23 12:14:34] DEBUG [django.db.backends:90] (0.001) SELECT @@SQL_AUTO_IS_NULL; args=None
+[2017-02-23 12:14:34] DEBUG [django.db.backends:90] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 12:14:34] DEBUG [django.db.backends:90] (0.001) SELECT VERSION(); args=None
+[2017-02-23 12:14:34] DEBUG [django.db.backends:90] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 12:14:34] DEBUG [django.db.backends:90] (0.001) SELECT `oauth2_provider_accesstoken`.`id`, `oauth2_provider_accesstoken`.`user_id`, `oauth2_provider_accesstoken`.`token`, `oauth2_provider_accesstoken`.`application_id`, `oauth2_provider_accesstoken`.`expires`, `oauth2_provider_accesstoken`.`scope`, `oauth2_backend_user`.`password`, `oauth2_backend_user`.`last_login`, `oauth2_backend_user`.`is_superuser`, `oauth2_backend_user`.`username`, `oauth2_backend_user`.`first_name`, `oauth2_backend_user`.`last_name`, `oauth2_backend_user`.`email`, `oauth2_backend_user`.`is_staff`, `oauth2_backend_user`.`is_active`, `oauth2_backend_user`.`date_joined`, `oauth2_backend_user`.`id`, `oauth2_backend_user`.`last_hierarchy_id`, `oauth2_backend_user`.`last_module_id`, `oauth2_backend_user`.`person_id`, `oauth2_backend_user`.`updated_at`, `oauth2_backend_user`.`registered_by`, `oauth2_provider_application`.`id`, `oauth2_provider_application`.`client_id`, `oauth2_provider_application`.`user_id`, `oauth2_provider_application`.`redirect_uris`, `oauth2_provider_application`.`client_type`, `oauth2_provider_application`.`authorization_grant_type`, `oauth2_provider_application`.`client_secret`, `oauth2_provider_application`.`name`, `oauth2_provider_application`.`skip_authorization` FROM `oauth2_provider_accesstoken` LEFT OUTER JOIN `oauth2_backend_user` ON (`oauth2_provider_accesstoken`.`user_id` = `oauth2_backend_user`.`id`) INNER JOIN `oauth2_provider_application` ON (`oauth2_provider_accesstoken`.`application_id` = `oauth2_provider_application`.`id`) WHERE `oauth2_provider_accesstoken`.`token` = 'fgHAzZ4KribMliiyo2mpbymByDaTK7'; args=('fgHAzZ4KribMliiyo2mpbymByDaTK7',)
+[2017-02-23 12:14:34] DEBUG [django.db.backends:90] (0.000) SELECT `django_content_type`.`app_label`, `auth_permission`.`codename` FROM `auth_permission` INNER JOIN `oauth2_backend_user_user_permissions` ON (`auth_permission`.`id` = `oauth2_backend_user_user_permissions`.`permission_id`) INNER JOIN `django_content_type` ON (`auth_permission`.`content_type_id` = `django_content_type`.`id`) WHERE `oauth2_backend_user_user_permissions`.`user_id` = '45611de526e84271b7fc8d99762543f9'; args=('45611de526e84271b7fc8d99762543f9',)
+[2017-02-23 12:14:34] DEBUG [django.db.backends:90] (0.001) SELECT `django_content_type`.`app_label`, `auth_permission`.`codename` FROM `auth_permission` INNER JOIN `auth_group_permissions` ON (`auth_permission`.`id` = `auth_group_permissions`.`permission_id`) INNER JOIN `auth_group` ON (`auth_group_permissions`.`group_id` = `auth_group`.`id`) INNER JOIN `oauth2_backend_user_groups` ON (`auth_group`.`id` = `oauth2_backend_user_groups`.`group_id`) INNER JOIN `django_content_type` ON (`auth_permission`.`content_type_id` = `django_content_type`.`id`) WHERE `oauth2_backend_user_groups`.`user_id` = '45611de526e84271b7fc8d99762543f9'; args=('45611de526e84271b7fc8d99762543f9',)
+[2017-02-23 12:14:34] DEBUG [django.db.backends:90] (0.001) SELECT COUNT(*) AS `__count` FROM `ubigeo_ubigeo`; args=()
+[2017-02-23 12:14:34] INFO [django.server:131] "GET /api/ubigeo/ubigeos/ HTTP/1.1" 200 124
+[2017-02-23 12:15:16] DEBUG [django.db.backends:90] (0.001) SELECT @@SQL_AUTO_IS_NULL; args=None
+[2017-02-23 12:15:16] DEBUG [django.db.backends:90] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 12:15:16] DEBUG [django.db.backends:90] (0.000) SELECT VERSION(); args=None
+[2017-02-23 12:15:16] DEBUG [django.db.backends:90] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 12:15:16] DEBUG [django.db.backends:90] (0.002) SELECT `oauth2_provider_accesstoken`.`id`, `oauth2_provider_accesstoken`.`user_id`, `oauth2_provider_accesstoken`.`token`, `oauth2_provider_accesstoken`.`application_id`, `oauth2_provider_accesstoken`.`expires`, `oauth2_provider_accesstoken`.`scope`, `oauth2_backend_user`.`password`, `oauth2_backend_user`.`last_login`, `oauth2_backend_user`.`is_superuser`, `oauth2_backend_user`.`username`, `oauth2_backend_user`.`first_name`, `oauth2_backend_user`.`last_name`, `oauth2_backend_user`.`email`, `oauth2_backend_user`.`is_staff`, `oauth2_backend_user`.`is_active`, `oauth2_backend_user`.`date_joined`, `oauth2_backend_user`.`id`, `oauth2_backend_user`.`last_hierarchy_id`, `oauth2_backend_user`.`last_module_id`, `oauth2_backend_user`.`person_id`, `oauth2_backend_user`.`updated_at`, `oauth2_backend_user`.`registered_by`, `oauth2_provider_application`.`id`, `oauth2_provider_application`.`client_id`, `oauth2_provider_application`.`user_id`, `oauth2_provider_application`.`redirect_uris`, `oauth2_provider_application`.`client_type`, `oauth2_provider_application`.`authorization_grant_type`, `oauth2_provider_application`.`client_secret`, `oauth2_provider_application`.`name`, `oauth2_provider_application`.`skip_authorization` FROM `oauth2_provider_accesstoken` LEFT OUTER JOIN `oauth2_backend_user` ON (`oauth2_provider_accesstoken`.`user_id` = `oauth2_backend_user`.`id`) INNER JOIN `oauth2_provider_application` ON (`oauth2_provider_accesstoken`.`application_id` = `oauth2_provider_application`.`id`) WHERE `oauth2_provider_accesstoken`.`token` = 'fgHAzZ4KribMliiyo2mpbymByDaTK7'; args=('fgHAzZ4KribMliiyo2mpbymByDaTK7',)
+[2017-02-23 12:15:16] DEBUG [django.db.backends:90] (0.000) SELECT `django_content_type`.`app_label`, `auth_permission`.`codename` FROM `auth_permission` INNER JOIN `oauth2_backend_user_user_permissions` ON (`auth_permission`.`id` = `oauth2_backend_user_user_permissions`.`permission_id`) INNER JOIN `django_content_type` ON (`auth_permission`.`content_type_id` = `django_content_type`.`id`) WHERE `oauth2_backend_user_user_permissions`.`user_id` = '45611de526e84271b7fc8d99762543f9'; args=('45611de526e84271b7fc8d99762543f9',)
+[2017-02-23 12:15:16] DEBUG [django.db.backends:90] (0.001) SELECT `django_content_type`.`app_label`, `auth_permission`.`codename` FROM `auth_permission` INNER JOIN `auth_group_permissions` ON (`auth_permission`.`id` = `auth_group_permissions`.`permission_id`) INNER JOIN `auth_group` ON (`auth_group_permissions`.`group_id` = `auth_group`.`id`) INNER JOIN `oauth2_backend_user_groups` ON (`auth_group`.`id` = `oauth2_backend_user_groups`.`group_id`) INNER JOIN `django_content_type` ON (`auth_permission`.`content_type_id` = `django_content_type`.`id`) WHERE `oauth2_backend_user_groups`.`user_id` = '45611de526e84271b7fc8d99762543f9'; args=('45611de526e84271b7fc8d99762543f9',)
+[2017-02-23 12:15:16] WARNING [django.server:131] "GET /api/ubigeo/ubigeos/ HTTP/1.1" 403 63
+[2017-02-23 12:17:05] DEBUG [django.db.backends:90] (0.001) SELECT @@SQL_AUTO_IS_NULL; args=None
+[2017-02-23 12:17:05] DEBUG [django.db.backends:90] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 12:17:05] DEBUG [django.db.backends:90] (0.001) SELECT VERSION(); args=None
+[2017-02-23 12:17:05] DEBUG [django.db.backends:90] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 12:17:05] DEBUG [django.db.backends:90] (0.002) SELECT `oauth2_provider_accesstoken`.`id`, `oauth2_provider_accesstoken`.`user_id`, `oauth2_provider_accesstoken`.`token`, `oauth2_provider_accesstoken`.`application_id`, `oauth2_provider_accesstoken`.`expires`, `oauth2_provider_accesstoken`.`scope`, `oauth2_backend_user`.`password`, `oauth2_backend_user`.`last_login`, `oauth2_backend_user`.`is_superuser`, `oauth2_backend_user`.`username`, `oauth2_backend_user`.`first_name`, `oauth2_backend_user`.`last_name`, `oauth2_backend_user`.`email`, `oauth2_backend_user`.`is_staff`, `oauth2_backend_user`.`is_active`, `oauth2_backend_user`.`date_joined`, `oauth2_backend_user`.`id`, `oauth2_backend_user`.`last_hierarchy_id`, `oauth2_backend_user`.`last_module_id`, `oauth2_backend_user`.`person_id`, `oauth2_backend_user`.`updated_at`, `oauth2_backend_user`.`registered_by`, `oauth2_provider_application`.`id`, `oauth2_provider_application`.`client_id`, `oauth2_provider_application`.`user_id`, `oauth2_provider_application`.`redirect_uris`, `oauth2_provider_application`.`client_type`, `oauth2_provider_application`.`authorization_grant_type`, `oauth2_provider_application`.`client_secret`, `oauth2_provider_application`.`name`, `oauth2_provider_application`.`skip_authorization` FROM `oauth2_provider_accesstoken` LEFT OUTER JOIN `oauth2_backend_user` ON (`oauth2_provider_accesstoken`.`user_id` = `oauth2_backend_user`.`id`) INNER JOIN `oauth2_provider_application` ON (`oauth2_provider_accesstoken`.`application_id` = `oauth2_provider_application`.`id`) WHERE `oauth2_provider_accesstoken`.`token` = 'fgHAzZ4KribMliiyo2mpbymByDaTK7'; args=('fgHAzZ4KribMliiyo2mpbymByDaTK7',)
+[2017-02-23 12:17:05] DEBUG [django.db.backends:90] (0.001) SELECT `django_content_type`.`app_label`, `auth_permission`.`codename` FROM `auth_permission` INNER JOIN `oauth2_backend_user_user_permissions` ON (`auth_permission`.`id` = `oauth2_backend_user_user_permissions`.`permission_id`) INNER JOIN `django_content_type` ON (`auth_permission`.`content_type_id` = `django_content_type`.`id`) WHERE `oauth2_backend_user_user_permissions`.`user_id` = '45611de526e84271b7fc8d99762543f9'; args=('45611de526e84271b7fc8d99762543f9',)
+[2017-02-23 12:17:05] DEBUG [django.db.backends:90] (0.000) SELECT `django_content_type`.`app_label`, `auth_permission`.`codename` FROM `auth_permission` INNER JOIN `auth_group_permissions` ON (`auth_permission`.`id` = `auth_group_permissions`.`permission_id`) INNER JOIN `auth_group` ON (`auth_group_permissions`.`group_id` = `auth_group`.`id`) INNER JOIN `oauth2_backend_user_groups` ON (`auth_group`.`id` = `oauth2_backend_user_groups`.`group_id`) INNER JOIN `django_content_type` ON (`auth_permission`.`content_type_id` = `django_content_type`.`id`) WHERE `oauth2_backend_user_groups`.`user_id` = '45611de526e84271b7fc8d99762543f9'; args=('45611de526e84271b7fc8d99762543f9',)
+[2017-02-23 12:17:05] WARNING [django.server:131] "GET /api/ubigeo/ubigeos/ HTTP/1.1" 403 63
+[2017-02-23 12:17:37] DEBUG [django.db.backends:90] (0.000) SELECT @@SQL_AUTO_IS_NULL; args=None
+[2017-02-23 12:17:37] DEBUG [django.db.backends:90] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 12:17:37] DEBUG [django.db.backends:90] (0.000) SELECT VERSION(); args=None
+[2017-02-23 12:17:37] DEBUG [django.db.backends:90] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 12:17:37] DEBUG [django.db.backends:90] (0.002) SHOW FULL TABLES; args=None
+[2017-02-23 12:17:37] DEBUG [django.db.backends:90] (0.000) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[2017-02-23 12:28:02] DEBUG [django.db.backends:90] (0.001) SELECT @@SQL_AUTO_IS_NULL; args=None
+[2017-02-23 12:28:02] DEBUG [django.db.backends:90] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 12:28:02] DEBUG [django.db.backends:90] (0.001) SELECT VERSION(); args=None
+[2017-02-23 12:28:02] DEBUG [django.db.backends:90] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 12:28:02] DEBUG [django.db.backends:90] (0.003) SHOW FULL TABLES; args=None
+[2017-02-23 12:28:03] DEBUG [django.db.backends:90] (0.001) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[2017-02-23 12:28:09] DEBUG [django.db.backends:90] (0.000) SELECT @@SQL_AUTO_IS_NULL; args=None
+[2017-02-23 12:28:09] DEBUG [django.db.backends:90] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 12:28:09] DEBUG [django.db.backends:90] (0.000) SELECT VERSION(); args=None
+[2017-02-23 12:28:09] DEBUG [django.db.backends:90] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 12:28:09] DEBUG [django.db.backends:90] (0.003) SHOW FULL TABLES; args=None
+[2017-02-23 12:28:09] DEBUG [django.db.backends:90] (0.000) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[2017-02-23 12:28:14] DEBUG [django.db.backends:90] (0.000) SELECT @@SQL_AUTO_IS_NULL; args=None
+[2017-02-23 12:28:14] DEBUG [django.db.backends:90] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 12:28:14] DEBUG [django.db.backends:90] (0.000) SELECT VERSION(); args=None
+[2017-02-23 12:28:14] DEBUG [django.db.backends:90] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 12:28:14] DEBUG [django.db.backends:90] (0.002) SELECT `oauth2_provider_accesstoken`.`id`, `oauth2_provider_accesstoken`.`user_id`, `oauth2_provider_accesstoken`.`token`, `oauth2_provider_accesstoken`.`application_id`, `oauth2_provider_accesstoken`.`expires`, `oauth2_provider_accesstoken`.`scope`, `oauth2_backend_user`.`password`, `oauth2_backend_user`.`last_login`, `oauth2_backend_user`.`is_superuser`, `oauth2_backend_user`.`username`, `oauth2_backend_user`.`first_name`, `oauth2_backend_user`.`last_name`, `oauth2_backend_user`.`email`, `oauth2_backend_user`.`is_staff`, `oauth2_backend_user`.`is_active`, `oauth2_backend_user`.`date_joined`, `oauth2_backend_user`.`id`, `oauth2_backend_user`.`last_hierarchy_id`, `oauth2_backend_user`.`last_module_id`, `oauth2_backend_user`.`person_id`, `oauth2_backend_user`.`updated_at`, `oauth2_backend_user`.`registered_by`, `oauth2_provider_application`.`id`, `oauth2_provider_application`.`client_id`, `oauth2_provider_application`.`user_id`, `oauth2_provider_application`.`redirect_uris`, `oauth2_provider_application`.`client_type`, `oauth2_provider_application`.`authorization_grant_type`, `oauth2_provider_application`.`client_secret`, `oauth2_provider_application`.`name`, `oauth2_provider_application`.`skip_authorization` FROM `oauth2_provider_accesstoken` LEFT OUTER JOIN `oauth2_backend_user` ON (`oauth2_provider_accesstoken`.`user_id` = `oauth2_backend_user`.`id`) INNER JOIN `oauth2_provider_application` ON (`oauth2_provider_accesstoken`.`application_id` = `oauth2_provider_application`.`id`) WHERE `oauth2_provider_accesstoken`.`token` = 'fgHAzZ4KribMliiyo2mpbymByDaTK7'; args=('fgHAzZ4KribMliiyo2mpbymByDaTK7',)
+[2017-02-23 12:28:14] DEBUG [django.db.backends:90] (0.002) SELECT `django_content_type`.`app_label`, `auth_permission`.`codename` FROM `auth_permission` INNER JOIN `oauth2_backend_user_user_permissions` ON (`auth_permission`.`id` = `oauth2_backend_user_user_permissions`.`permission_id`) INNER JOIN `django_content_type` ON (`auth_permission`.`content_type_id` = `django_content_type`.`id`) WHERE `oauth2_backend_user_user_permissions`.`user_id` = '45611de526e84271b7fc8d99762543f9'; args=('45611de526e84271b7fc8d99762543f9',)
+[2017-02-23 12:28:14] DEBUG [django.db.backends:90] (0.002) SELECT `django_content_type`.`app_label`, `auth_permission`.`codename` FROM `auth_permission` INNER JOIN `auth_group_permissions` ON (`auth_permission`.`id` = `auth_group_permissions`.`permission_id`) INNER JOIN `auth_group` ON (`auth_group_permissions`.`group_id` = `auth_group`.`id`) INNER JOIN `oauth2_backend_user_groups` ON (`auth_group`.`id` = `oauth2_backend_user_groups`.`group_id`) INNER JOIN `django_content_type` ON (`auth_permission`.`content_type_id` = `django_content_type`.`id`) WHERE `oauth2_backend_user_groups`.`user_id` = '45611de526e84271b7fc8d99762543f9'; args=('45611de526e84271b7fc8d99762543f9',)
+[2017-02-23 12:28:14] WARNING [django.server:131] "GET /api/ubigeo/ubigeos/ HTTP/1.1" 403 63
+[2017-02-23 12:29:04] DEBUG [django.db.backends:90] (0.000) SELECT @@SQL_AUTO_IS_NULL; args=None
+[2017-02-23 12:29:04] DEBUG [django.db.backends:90] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 12:29:04] DEBUG [django.db.backends:90] (0.000) SELECT VERSION(); args=None
+[2017-02-23 12:29:04] DEBUG [django.db.backends:90] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 12:29:04] DEBUG [django.db.backends:90] (0.001) SELECT `oauth2_provider_accesstoken`.`id`, `oauth2_provider_accesstoken`.`user_id`, `oauth2_provider_accesstoken`.`token`, `oauth2_provider_accesstoken`.`application_id`, `oauth2_provider_accesstoken`.`expires`, `oauth2_provider_accesstoken`.`scope`, `oauth2_backend_user`.`password`, `oauth2_backend_user`.`last_login`, `oauth2_backend_user`.`is_superuser`, `oauth2_backend_user`.`username`, `oauth2_backend_user`.`first_name`, `oauth2_backend_user`.`last_name`, `oauth2_backend_user`.`email`, `oauth2_backend_user`.`is_staff`, `oauth2_backend_user`.`is_active`, `oauth2_backend_user`.`date_joined`, `oauth2_backend_user`.`id`, `oauth2_backend_user`.`last_hierarchy_id`, `oauth2_backend_user`.`last_module_id`, `oauth2_backend_user`.`person_id`, `oauth2_backend_user`.`updated_at`, `oauth2_backend_user`.`registered_by`, `oauth2_provider_application`.`id`, `oauth2_provider_application`.`client_id`, `oauth2_provider_application`.`user_id`, `oauth2_provider_application`.`redirect_uris`, `oauth2_provider_application`.`client_type`, `oauth2_provider_application`.`authorization_grant_type`, `oauth2_provider_application`.`client_secret`, `oauth2_provider_application`.`name`, `oauth2_provider_application`.`skip_authorization` FROM `oauth2_provider_accesstoken` LEFT OUTER JOIN `oauth2_backend_user` ON (`oauth2_provider_accesstoken`.`user_id` = `oauth2_backend_user`.`id`) INNER JOIN `oauth2_provider_application` ON (`oauth2_provider_accesstoken`.`application_id` = `oauth2_provider_application`.`id`) WHERE `oauth2_provider_accesstoken`.`token` = 'fgHAzZ4KribMliiyo2mpbymByDaTK7'; args=('fgHAzZ4KribMliiyo2mpbymByDaTK7',)
+[2017-02-23 12:29:04] DEBUG [django.db.backends:90] (0.001) SELECT `django_content_type`.`app_label`, `auth_permission`.`codename` FROM `auth_permission` INNER JOIN `oauth2_backend_user_user_permissions` ON (`auth_permission`.`id` = `oauth2_backend_user_user_permissions`.`permission_id`) INNER JOIN `django_content_type` ON (`auth_permission`.`content_type_id` = `django_content_type`.`id`) WHERE `oauth2_backend_user_user_permissions`.`user_id` = '45611de526e84271b7fc8d99762543f9'; args=('45611de526e84271b7fc8d99762543f9',)
+[2017-02-23 12:29:04] DEBUG [django.db.backends:90] (0.001) SELECT `django_content_type`.`app_label`, `auth_permission`.`codename` FROM `auth_permission` INNER JOIN `auth_group_permissions` ON (`auth_permission`.`id` = `auth_group_permissions`.`permission_id`) INNER JOIN `auth_group` ON (`auth_group_permissions`.`group_id` = `auth_group`.`id`) INNER JOIN `oauth2_backend_user_groups` ON (`auth_group`.`id` = `oauth2_backend_user_groups`.`group_id`) INNER JOIN `django_content_type` ON (`auth_permission`.`content_type_id` = `django_content_type`.`id`) WHERE `oauth2_backend_user_groups`.`user_id` = '45611de526e84271b7fc8d99762543f9'; args=('45611de526e84271b7fc8d99762543f9',)
+[2017-02-23 12:29:04] WARNING [django.server:131] "GET /api/ubigeo/ubigeos/ HTTP/1.1" 403 63
+[2017-02-23 12:30:18] DEBUG [django.db.backends:90] (0.001) SELECT @@SQL_AUTO_IS_NULL; args=None
+[2017-02-23 12:30:18] DEBUG [django.db.backends:90] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 12:30:18] DEBUG [django.db.backends:90] (0.001) SELECT VERSION(); args=None
+[2017-02-23 12:30:18] DEBUG [django.db.backends:90] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 12:30:18] DEBUG [django.db.backends:90] (0.002) SHOW FULL TABLES; args=None
+[2017-02-23 12:30:18] DEBUG [django.db.backends:90] (0.000) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[2017-02-23 12:30:23] DEBUG [django.db.backends:90] (0.000) SELECT @@SQL_AUTO_IS_NULL; args=None
+[2017-02-23 12:30:23] DEBUG [django.db.backends:90] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 12:30:23] DEBUG [django.db.backends:90] (0.000) SELECT VERSION(); args=None
+[2017-02-23 12:30:23] DEBUG [django.db.backends:90] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 12:30:23] DEBUG [django.db.backends:90] (0.002) SELECT `oauth2_provider_accesstoken`.`id`, `oauth2_provider_accesstoken`.`user_id`, `oauth2_provider_accesstoken`.`token`, `oauth2_provider_accesstoken`.`application_id`, `oauth2_provider_accesstoken`.`expires`, `oauth2_provider_accesstoken`.`scope`, `oauth2_backend_user`.`password`, `oauth2_backend_user`.`last_login`, `oauth2_backend_user`.`is_superuser`, `oauth2_backend_user`.`username`, `oauth2_backend_user`.`first_name`, `oauth2_backend_user`.`last_name`, `oauth2_backend_user`.`email`, `oauth2_backend_user`.`is_staff`, `oauth2_backend_user`.`is_active`, `oauth2_backend_user`.`date_joined`, `oauth2_backend_user`.`id`, `oauth2_backend_user`.`last_hierarchy_id`, `oauth2_backend_user`.`last_module_id`, `oauth2_backend_user`.`person_id`, `oauth2_backend_user`.`updated_at`, `oauth2_backend_user`.`registered_by`, `oauth2_provider_application`.`id`, `oauth2_provider_application`.`client_id`, `oauth2_provider_application`.`user_id`, `oauth2_provider_application`.`redirect_uris`, `oauth2_provider_application`.`client_type`, `oauth2_provider_application`.`authorization_grant_type`, `oauth2_provider_application`.`client_secret`, `oauth2_provider_application`.`name`, `oauth2_provider_application`.`skip_authorization` FROM `oauth2_provider_accesstoken` LEFT OUTER JOIN `oauth2_backend_user` ON (`oauth2_provider_accesstoken`.`user_id` = `oauth2_backend_user`.`id`) INNER JOIN `oauth2_provider_application` ON (`oauth2_provider_accesstoken`.`application_id` = `oauth2_provider_application`.`id`) WHERE `oauth2_provider_accesstoken`.`token` = 'fgHAzZ4KribMliiyo2mpbymByDaTK7'; args=('fgHAzZ4KribMliiyo2mpbymByDaTK7',)
+[2017-02-23 12:30:23] DEBUG [django.db.backends:90] (0.001) SELECT `django_content_type`.`app_label`, `auth_permission`.`codename` FROM `auth_permission` INNER JOIN `oauth2_backend_user_user_permissions` ON (`auth_permission`.`id` = `oauth2_backend_user_user_permissions`.`permission_id`) INNER JOIN `django_content_type` ON (`auth_permission`.`content_type_id` = `django_content_type`.`id`) WHERE `oauth2_backend_user_user_permissions`.`user_id` = '45611de526e84271b7fc8d99762543f9'; args=('45611de526e84271b7fc8d99762543f9',)
+[2017-02-23 12:30:23] DEBUG [django.db.backends:90] (0.000) SELECT `django_content_type`.`app_label`, `auth_permission`.`codename` FROM `auth_permission` INNER JOIN `auth_group_permissions` ON (`auth_permission`.`id` = `auth_group_permissions`.`permission_id`) INNER JOIN `auth_group` ON (`auth_group_permissions`.`group_id` = `auth_group`.`id`) INNER JOIN `oauth2_backend_user_groups` ON (`auth_group`.`id` = `oauth2_backend_user_groups`.`group_id`) INNER JOIN `django_content_type` ON (`auth_permission`.`content_type_id` = `django_content_type`.`id`) WHERE `oauth2_backend_user_groups`.`user_id` = '45611de526e84271b7fc8d99762543f9'; args=('45611de526e84271b7fc8d99762543f9',)
+[2017-02-23 12:30:23] WARNING [django.server:131] "GET /api/ubigeo/ubigeos/ HTTP/1.1" 403 63
+[2017-02-23 12:36:48] DEBUG [django.db.backends:90] (0.001) SELECT @@SQL_AUTO_IS_NULL; args=None
+[2017-02-23 12:36:48] DEBUG [django.db.backends:90] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 12:36:48] DEBUG [django.db.backends:90] (0.000) SELECT VERSION(); args=None
+[2017-02-23 12:36:48] DEBUG [django.db.backends:90] (0.001) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 12:36:48] DEBUG [django.db.backends:90] (0.004) SHOW FULL TABLES; args=None
+[2017-02-23 12:36:48] DEBUG [django.db.backends:90] (0.001) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[2017-02-23 12:37:31] DEBUG [django.db.backends:90] (0.001) SELECT @@SQL_AUTO_IS_NULL; args=None
+[2017-02-23 12:37:31] DEBUG [django.db.backends:90] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 12:37:31] DEBUG [django.db.backends:90] (0.001) SELECT VERSION(); args=None
+[2017-02-23 12:37:31] DEBUG [django.db.backends:90] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 12:37:31] DEBUG [django.db.backends:90] (0.002) SELECT `oauth2_provider_accesstoken`.`id`, `oauth2_provider_accesstoken`.`user_id`, `oauth2_provider_accesstoken`.`token`, `oauth2_provider_accesstoken`.`application_id`, `oauth2_provider_accesstoken`.`expires`, `oauth2_provider_accesstoken`.`scope`, `oauth2_backend_user`.`password`, `oauth2_backend_user`.`last_login`, `oauth2_backend_user`.`is_superuser`, `oauth2_backend_user`.`username`, `oauth2_backend_user`.`first_name`, `oauth2_backend_user`.`last_name`, `oauth2_backend_user`.`email`, `oauth2_backend_user`.`is_staff`, `oauth2_backend_user`.`is_active`, `oauth2_backend_user`.`date_joined`, `oauth2_backend_user`.`id`, `oauth2_backend_user`.`last_hierarchy_id`, `oauth2_backend_user`.`last_module_id`, `oauth2_backend_user`.`person_id`, `oauth2_backend_user`.`updated_at`, `oauth2_backend_user`.`registered_by`, `oauth2_provider_application`.`id`, `oauth2_provider_application`.`client_id`, `oauth2_provider_application`.`user_id`, `oauth2_provider_application`.`redirect_uris`, `oauth2_provider_application`.`client_type`, `oauth2_provider_application`.`authorization_grant_type`, `oauth2_provider_application`.`client_secret`, `oauth2_provider_application`.`name`, `oauth2_provider_application`.`skip_authorization` FROM `oauth2_provider_accesstoken` LEFT OUTER JOIN `oauth2_backend_user` ON (`oauth2_provider_accesstoken`.`user_id` = `oauth2_backend_user`.`id`) INNER JOIN `oauth2_provider_application` ON (`oauth2_provider_accesstoken`.`application_id` = `oauth2_provider_application`.`id`) WHERE `oauth2_provider_accesstoken`.`token` = '39ViZHtyOJ3BGCnzAgk7Po6VmKwG6P'; args=('39ViZHtyOJ3BGCnzAgk7Po6VmKwG6P',)
+[2017-02-23 12:37:31] DEBUG [django.db.backends:90] (0.001) SELECT COUNT(*) AS `__count` FROM `ubigeo_ubigeo` WHERE `ubigeo_ubigeo`.`id` IS NOT NULL; args=()
+[2017-02-23 12:37:31] INFO [django.server:131] "GET /api/ubigeo/ubigeos/ HTTP/1.1" 200 124
+[2017-02-23 12:38:11] DEBUG [django.db.backends:90] (0.000) SELECT @@SQL_AUTO_IS_NULL; args=None
+[2017-02-23 12:38:11] DEBUG [django.db.backends:90] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 12:38:11] DEBUG [django.db.backends:90] (0.000) SELECT VERSION(); args=None
+[2017-02-23 12:38:11] DEBUG [django.db.backends:90] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 12:38:11] DEBUG [django.db.backends:90] (0.001) SELECT `oauth2_provider_accesstoken`.`id`, `oauth2_provider_accesstoken`.`user_id`, `oauth2_provider_accesstoken`.`token`, `oauth2_provider_accesstoken`.`application_id`, `oauth2_provider_accesstoken`.`expires`, `oauth2_provider_accesstoken`.`scope`, `oauth2_backend_user`.`password`, `oauth2_backend_user`.`last_login`, `oauth2_backend_user`.`is_superuser`, `oauth2_backend_user`.`username`, `oauth2_backend_user`.`first_name`, `oauth2_backend_user`.`last_name`, `oauth2_backend_user`.`email`, `oauth2_backend_user`.`is_staff`, `oauth2_backend_user`.`is_active`, `oauth2_backend_user`.`date_joined`, `oauth2_backend_user`.`id`, `oauth2_backend_user`.`last_hierarchy_id`, `oauth2_backend_user`.`last_module_id`, `oauth2_backend_user`.`person_id`, `oauth2_backend_user`.`updated_at`, `oauth2_backend_user`.`registered_by`, `oauth2_provider_application`.`id`, `oauth2_provider_application`.`client_id`, `oauth2_provider_application`.`user_id`, `oauth2_provider_application`.`redirect_uris`, `oauth2_provider_application`.`client_type`, `oauth2_provider_application`.`authorization_grant_type`, `oauth2_provider_application`.`client_secret`, `oauth2_provider_application`.`name`, `oauth2_provider_application`.`skip_authorization` FROM `oauth2_provider_accesstoken` LEFT OUTER JOIN `oauth2_backend_user` ON (`oauth2_provider_accesstoken`.`user_id` = `oauth2_backend_user`.`id`) INNER JOIN `oauth2_provider_application` ON (`oauth2_provider_accesstoken`.`application_id` = `oauth2_provider_application`.`id`) WHERE `oauth2_provider_accesstoken`.`token` = '39ViZHtyOJ3BGCnzAgk7Po6VmKwG6P'; args=('39ViZHtyOJ3BGCnzAgk7Po6VmKwG6P',)
+[2017-02-23 12:38:11] DEBUG [django.db.backends:90] (0.001) SELECT COUNT(*) AS `__count` FROM `ubigeo_ubigeo` WHERE `ubigeo_ubigeo`.`id` IS NOT NULL; args=()
+[2017-02-23 12:38:11] INFO [django.server:131] "GET /api/ubigeo/ubigeos/ HTTP/1.1" 200 124
+[2017-02-23 12:38:16] DEBUG [django.db.backends:90] (0.000) SELECT @@SQL_AUTO_IS_NULL; args=None
+[2017-02-23 12:38:16] DEBUG [django.db.backends:90] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 12:38:16] DEBUG [django.db.backends:90] (0.000) SELECT VERSION(); args=None
+[2017-02-23 12:38:16] DEBUG [django.db.backends:90] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 12:38:16] DEBUG [django.db.backends:90] (0.001) SELECT `oauth2_provider_accesstoken`.`id`, `oauth2_provider_accesstoken`.`user_id`, `oauth2_provider_accesstoken`.`token`, `oauth2_provider_accesstoken`.`application_id`, `oauth2_provider_accesstoken`.`expires`, `oauth2_provider_accesstoken`.`scope`, `oauth2_backend_user`.`password`, `oauth2_backend_user`.`last_login`, `oauth2_backend_user`.`is_superuser`, `oauth2_backend_user`.`username`, `oauth2_backend_user`.`first_name`, `oauth2_backend_user`.`last_name`, `oauth2_backend_user`.`email`, `oauth2_backend_user`.`is_staff`, `oauth2_backend_user`.`is_active`, `oauth2_backend_user`.`date_joined`, `oauth2_backend_user`.`id`, `oauth2_backend_user`.`last_hierarchy_id`, `oauth2_backend_user`.`last_module_id`, `oauth2_backend_user`.`person_id`, `oauth2_backend_user`.`updated_at`, `oauth2_backend_user`.`registered_by`, `oauth2_provider_application`.`id`, `oauth2_provider_application`.`client_id`, `oauth2_provider_application`.`user_id`, `oauth2_provider_application`.`redirect_uris`, `oauth2_provider_application`.`client_type`, `oauth2_provider_application`.`authorization_grant_type`, `oauth2_provider_application`.`client_secret`, `oauth2_provider_application`.`name`, `oauth2_provider_application`.`skip_authorization` FROM `oauth2_provider_accesstoken` LEFT OUTER JOIN `oauth2_backend_user` ON (`oauth2_provider_accesstoken`.`user_id` = `oauth2_backend_user`.`id`) INNER JOIN `oauth2_provider_application` ON (`oauth2_provider_accesstoken`.`application_id` = `oauth2_provider_application`.`id`) WHERE `oauth2_provider_accesstoken`.`token` = '39ViZHtyOJ3BGCnzAgk7Po6VmKwG6P'; args=('39ViZHtyOJ3BGCnzAgk7Po6VmKwG6P',)
+[2017-02-23 12:38:16] DEBUG [django.db.backends:90] (0.001) SELECT COUNT(*) AS `__count` FROM `ubigeo_ubigeo` WHERE `ubigeo_ubigeo`.`id` IS NOT NULL; args=()
+[2017-02-23 12:38:16] INFO [django.server:131] "GET /api/ubigeo/ubigeos/ HTTP/1.1" 200 124
+[2017-02-23 12:38:39] DEBUG [django.db.backends:90] (0.000) SELECT @@SQL_AUTO_IS_NULL; args=None
+[2017-02-23 12:38:39] DEBUG [django.db.backends:90] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 12:38:39] DEBUG [django.db.backends:90] (0.001) SELECT VERSION(); args=None
+[2017-02-23 12:38:39] DEBUG [django.db.backends:90] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 12:38:39] DEBUG [django.db.backends:90] (0.001) SELECT `oauth2_provider_accesstoken`.`id`, `oauth2_provider_accesstoken`.`user_id`, `oauth2_provider_accesstoken`.`token`, `oauth2_provider_accesstoken`.`application_id`, `oauth2_provider_accesstoken`.`expires`, `oauth2_provider_accesstoken`.`scope`, `oauth2_backend_user`.`password`, `oauth2_backend_user`.`last_login`, `oauth2_backend_user`.`is_superuser`, `oauth2_backend_user`.`username`, `oauth2_backend_user`.`first_name`, `oauth2_backend_user`.`last_name`, `oauth2_backend_user`.`email`, `oauth2_backend_user`.`is_staff`, `oauth2_backend_user`.`is_active`, `oauth2_backend_user`.`date_joined`, `oauth2_backend_user`.`id`, `oauth2_backend_user`.`last_hierarchy_id`, `oauth2_backend_user`.`last_module_id`, `oauth2_backend_user`.`person_id`, `oauth2_backend_user`.`updated_at`, `oauth2_backend_user`.`registered_by`, `oauth2_provider_application`.`id`, `oauth2_provider_application`.`client_id`, `oauth2_provider_application`.`user_id`, `oauth2_provider_application`.`redirect_uris`, `oauth2_provider_application`.`client_type`, `oauth2_provider_application`.`authorization_grant_type`, `oauth2_provider_application`.`client_secret`, `oauth2_provider_application`.`name`, `oauth2_provider_application`.`skip_authorization` FROM `oauth2_provider_accesstoken` LEFT OUTER JOIN `oauth2_backend_user` ON (`oauth2_provider_accesstoken`.`user_id` = `oauth2_backend_user`.`id`) INNER JOIN `oauth2_provider_application` ON (`oauth2_provider_accesstoken`.`application_id` = `oauth2_provider_application`.`id`) WHERE `oauth2_provider_accesstoken`.`token` = '39ViZHtyOJ3BGCnzAgk7Po6VmKwG6P'; args=('39ViZHtyOJ3BGCnzAgk7Po6VmKwG6P',)
+[2017-02-23 12:38:39] DEBUG [django.db.backends:90] (0.000) SELECT COUNT(*) AS `__count` FROM `ubigeo_ubigeo` WHERE `ubigeo_ubigeo`.`id` IS NOT NULL; args=()
+[2017-02-23 12:38:39] INFO [django.server:131] "GET /api/ubigeo/ubigeos/ HTTP/1.1" 200 124
+[2017-02-23 12:38:56] DEBUG [django.db.backends:90] (0.000) SELECT @@SQL_AUTO_IS_NULL; args=None
+[2017-02-23 12:38:56] DEBUG [django.db.backends:90] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 12:38:56] DEBUG [django.db.backends:90] (0.000) SELECT VERSION(); args=None
+[2017-02-23 12:38:56] DEBUG [django.db.backends:90] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 12:38:56] DEBUG [django.db.backends:90] (0.001) SELECT `oauth2_provider_accesstoken`.`id`, `oauth2_provider_accesstoken`.`user_id`, `oauth2_provider_accesstoken`.`token`, `oauth2_provider_accesstoken`.`application_id`, `oauth2_provider_accesstoken`.`expires`, `oauth2_provider_accesstoken`.`scope`, `oauth2_backend_user`.`password`, `oauth2_backend_user`.`last_login`, `oauth2_backend_user`.`is_superuser`, `oauth2_backend_user`.`username`, `oauth2_backend_user`.`first_name`, `oauth2_backend_user`.`last_name`, `oauth2_backend_user`.`email`, `oauth2_backend_user`.`is_staff`, `oauth2_backend_user`.`is_active`, `oauth2_backend_user`.`date_joined`, `oauth2_backend_user`.`id`, `oauth2_backend_user`.`last_hierarchy_id`, `oauth2_backend_user`.`last_module_id`, `oauth2_backend_user`.`person_id`, `oauth2_backend_user`.`updated_at`, `oauth2_backend_user`.`registered_by`, `oauth2_provider_application`.`id`, `oauth2_provider_application`.`client_id`, `oauth2_provider_application`.`user_id`, `oauth2_provider_application`.`redirect_uris`, `oauth2_provider_application`.`client_type`, `oauth2_provider_application`.`authorization_grant_type`, `oauth2_provider_application`.`client_secret`, `oauth2_provider_application`.`name`, `oauth2_provider_application`.`skip_authorization` FROM `oauth2_provider_accesstoken` LEFT OUTER JOIN `oauth2_backend_user` ON (`oauth2_provider_accesstoken`.`user_id` = `oauth2_backend_user`.`id`) INNER JOIN `oauth2_provider_application` ON (`oauth2_provider_accesstoken`.`application_id` = `oauth2_provider_application`.`id`) WHERE `oauth2_provider_accesstoken`.`token` = '39ViZHtyOJ3BGCnzAgk7Po6VmKwG6P'; args=('39ViZHtyOJ3BGCnzAgk7Po6VmKwG6P',)
+[2017-02-23 12:38:56] DEBUG [django.db.backends:90] (0.000) SELECT COUNT(*) AS `__count` FROM `ubigeo_ubigeo` WHERE `ubigeo_ubigeo`.`id` IS NOT NULL; args=()
+[2017-02-23 12:38:56] INFO [django.server:131] "GET /api/ubigeo/ubigeos/ HTTP/1.1" 200 124
+[2017-02-23 12:59:39] DEBUG [django.db.backends:90] (0.000) SELECT @@SQL_AUTO_IS_NULL; args=None
+[2017-02-23 12:59:39] DEBUG [django.db.backends:90] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 12:59:39] DEBUG [django.db.backends:90] (0.001) SELECT VERSION(); args=None
+[2017-02-23 12:59:39] DEBUG [django.db.backends:90] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 12:59:39] DEBUG [django.db.backends:90] (0.002) SHOW FULL TABLES; args=None
+[2017-02-23 12:59:39] DEBUG [django.db.backends:90] (0.000) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[2017-02-23 12:59:56] DEBUG [django.db.backends:90] (0.000) SELECT @@SQL_AUTO_IS_NULL; args=None
+[2017-02-23 12:59:56] DEBUG [django.db.backends:90] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 12:59:56] DEBUG [django.db.backends:90] (0.000) SELECT VERSION(); args=None
+[2017-02-23 12:59:56] DEBUG [django.db.backends:90] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 12:59:56] DEBUG [django.db.backends:90] (0.001) SELECT `oauth2_provider_accesstoken`.`id`, `oauth2_provider_accesstoken`.`user_id`, `oauth2_provider_accesstoken`.`token`, `oauth2_provider_accesstoken`.`application_id`, `oauth2_provider_accesstoken`.`expires`, `oauth2_provider_accesstoken`.`scope`, `oauth2_backend_user`.`password`, `oauth2_backend_user`.`last_login`, `oauth2_backend_user`.`is_superuser`, `oauth2_backend_user`.`username`, `oauth2_backend_user`.`first_name`, `oauth2_backend_user`.`last_name`, `oauth2_backend_user`.`email`, `oauth2_backend_user`.`is_staff`, `oauth2_backend_user`.`is_active`, `oauth2_backend_user`.`date_joined`, `oauth2_backend_user`.`id`, `oauth2_backend_user`.`last_hierarchy_id`, `oauth2_backend_user`.`last_module_id`, `oauth2_backend_user`.`person_id`, `oauth2_backend_user`.`updated_at`, `oauth2_backend_user`.`registered_by`, `oauth2_provider_application`.`id`, `oauth2_provider_application`.`client_id`, `oauth2_provider_application`.`user_id`, `oauth2_provider_application`.`redirect_uris`, `oauth2_provider_application`.`client_type`, `oauth2_provider_application`.`authorization_grant_type`, `oauth2_provider_application`.`client_secret`, `oauth2_provider_application`.`name`, `oauth2_provider_application`.`skip_authorization` FROM `oauth2_provider_accesstoken` LEFT OUTER JOIN `oauth2_backend_user` ON (`oauth2_provider_accesstoken`.`user_id` = `oauth2_backend_user`.`id`) INNER JOIN `oauth2_provider_application` ON (`oauth2_provider_accesstoken`.`application_id` = `oauth2_provider_application`.`id`) WHERE `oauth2_provider_accesstoken`.`token` = '8L4R0oF4GVHhvpimp2fgeQgMvfknTk'; args=('8L4R0oF4GVHhvpimp2fgeQgMvfknTk',)
+[2017-02-23 12:59:56] DEBUG [django.db.backends:90] (0.000) SELECT `django_content_type`.`app_label`, `auth_permission`.`codename` FROM `auth_permission` INNER JOIN `oauth2_backend_user_user_permissions` ON (`auth_permission`.`id` = `oauth2_backend_user_user_permissions`.`permission_id`) INNER JOIN `django_content_type` ON (`auth_permission`.`content_type_id` = `django_content_type`.`id`) WHERE `oauth2_backend_user_user_permissions`.`user_id` = '45611de526e84271b7fc8d99762543f9'; args=('45611de526e84271b7fc8d99762543f9',)
+[2017-02-23 12:59:56] DEBUG [django.db.backends:90] (0.002) SELECT `django_content_type`.`app_label`, `auth_permission`.`codename` FROM `auth_permission` INNER JOIN `auth_group_permissions` ON (`auth_permission`.`id` = `auth_group_permissions`.`permission_id`) INNER JOIN `auth_group` ON (`auth_group_permissions`.`group_id` = `auth_group`.`id`) INNER JOIN `oauth2_backend_user_groups` ON (`auth_group`.`id` = `oauth2_backend_user_groups`.`group_id`) INNER JOIN `django_content_type` ON (`auth_permission`.`content_type_id` = `django_content_type`.`id`) WHERE `oauth2_backend_user_groups`.`user_id` = '45611de526e84271b7fc8d99762543f9'; args=('45611de526e84271b7fc8d99762543f9',)
+[2017-02-23 12:59:56] WARNING [django.server:131] "GET /api/ubigeo/ubigeos/ HTTP/1.1" 403 63
+[2017-02-23 13:00:00] INFO [django.server:131] "OPTIONS /api/ubigeo/ubigeos/ HTTP/1.1" 200 0
+[2017-02-23 13:00:00] DEBUG [django.db.backends:90] (0.000) SELECT @@SQL_AUTO_IS_NULL; args=None
+[2017-02-23 13:00:00] DEBUG [django.db.backends:90] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 13:00:00] DEBUG [django.db.backends:90] (0.000) SELECT VERSION(); args=None
+[2017-02-23 13:00:00] DEBUG [django.db.backends:90] (0.000) SET SQL_AUTO_IS_NULL = 0; args=None
+[2017-02-23 13:00:00] DEBUG [django.db.backends:90] (0.001) SELECT `oauth2_provider_accesstoken`.`id`, `oauth2_provider_accesstoken`.`user_id`, `oauth2_provider_accesstoken`.`token`, `oauth2_provider_accesstoken`.`application_id`, `oauth2_provider_accesstoken`.`expires`, `oauth2_provider_accesstoken`.`scope`, `oauth2_backend_user`.`password`, `oauth2_backend_user`.`last_login`, `oauth2_backend_user`.`is_superuser`, `oauth2_backend_user`.`username`, `oauth2_backend_user`.`first_name`, `oauth2_backend_user`.`last_name`, `oauth2_backend_user`.`email`, `oauth2_backend_user`.`is_staff`, `oauth2_backend_user`.`is_active`, `oauth2_backend_user`.`date_joined`, `oauth2_backend_user`.`id`, `oauth2_backend_user`.`last_hierarchy_id`, `oauth2_backend_user`.`last_module_id`, `oauth2_backend_user`.`person_id`, `oauth2_backend_user`.`updated_at`, `oauth2_backend_user`.`registered_by`, `oauth2_provider_application`.`id`, `oauth2_provider_application`.`client_id`, `oauth2_provider_application`.`user_id`, `oauth2_provider_application`.`redirect_uris`, `oauth2_provider_application`.`client_type`, `oauth2_provider_application`.`authorization_grant_type`, `oauth2_provider_application`.`client_secret`, `oauth2_provider_application`.`name`, `oauth2_provider_application`.`skip_authorization` FROM `oauth2_provider_accesstoken` LEFT OUTER JOIN `oauth2_backend_user` ON (`oauth2_provider_accesstoken`.`user_id` = `oauth2_backend_user`.`id`) INNER JOIN `oauth2_provider_application` ON (`oauth2_provider_accesstoken`.`application_id` = `oauth2_provider_application`.`id`) WHERE `oauth2_provider_accesstoken`.`token` = 'RuzPWhWPcLmH6ssx0czoACqRbEiwDI'; args=('RuzPWhWPcLmH6ssx0czoACqRbEiwDI',)
+[2017-02-23 13:00:00] DEBUG [django.db.backends:90] (0.000) SELECT COUNT(*) AS `__count` FROM `ubigeo_ubigeo` WHERE `ubigeo_ubigeo`.`id` IS NOT NULL; args=()
+[2017-02-23 13:00:00] INFO [django.server:131] "GET /api/ubigeo/ubigeos/ HTTP/1.1" 200 124

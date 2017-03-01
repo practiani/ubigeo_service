@@ -1,0 +1,12 @@
+[2017-02-23 12:10:00] [INFO] [ubigeo.views.ubigeo_view:56] [/api/ubigeo/ubigeos/] [127.0.0.1] [AnonymousUser] [GET] Hola log
+[2017-02-23 12:10:01] [INFO] [ubigeo.views.ubigeo_view:56] [/api/ubigeo/ubigeos/] [127.0.0.1] [AnonymousUser] [GET] Hola log
+[2017-02-23 12:14:34] [INFO] [ubigeo.views.ubigeo_view:58] [/api/ubigeo/ubigeos/] [127.0.0.1] [asullom] [GET] Hola log desde angular
+[2017-02-23 12:14:34] [INFO] [ubigeo.views.ubigeo_view:58] [/api/ubigeo/ubigeos/] [127.0.0.1] [asullom] [GET] Hola log desde angular
+[2017-02-23 12:15:16] [INFO] [ubigeo.views.ubigeo_view:58] [/api/ubigeo/ubigeos/] [127.0.0.1] [asullom] [GET] Hola log desde angular
+[2017-02-23 12:15:16] [INFO] [backend_utils.permissions:123] [/api/ubigeo/ubigeos/] [127.0.0.1] [asullom] [GET] Permission denied. You don't have permission to ['ubigeo.list_ubigeo'].
+[2017-02-23 12:17:05] [INFO] [ubigeo.views.ubigeo_view:58] [/api/ubigeo/ubigeos/] [127.0.0.1] [asullom] [GET] Hola log desde angular
+[2017-02-23 12:17:05] [INFO] [backend_utils.permissions:123] [/api/ubigeo/ubigeos/] [127.0.0.1] [asullom] [GET] Permission denied. You don't have permission to ['ubigeo.list_ubigeo'].
+[2017-02-23 12:28:14] [INFO] [backend_utils.permissions:123] [/api/ubigeo/ubigeos/] [127.0.0.1] [asullom] [GET] Permission denied. You don't have permission to ['ubigeo.list_ubigeo'].
+[2017-02-23 12:29:04] [INFO] [backend_utils.permissions:123] [/api/ubigeo/ubigeos/] [127.0.0.1] [asullom] [GET] Permission denied. You don't have permission to ['ubigeo.list_ubigeo'].
+[2017-02-23 12:30:23] [INFO] [backend_utils.permissions:123] [/api/ubigeo/ubigeos/] [127.0.0.1] [asullom] [GET] Permission denied. You don't have permission to ['ubigeo.list_ubigeo'].
+[2017-02-23 12:59:56] [INFO] [backend_utils.permissions:123] [/api/ubigeo/ubigeos/] [127.0.0.1] [asullom] [GET] Permission denied. You don't have permission to ['ubigeo.list_ubigeo'].
